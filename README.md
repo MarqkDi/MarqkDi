@@ -1,7 +1,7 @@
 <!-- ANIMAÇÃO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=28&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Marcus;Estabelecendo+bases...;Sempre+aprendendo+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=28&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Ariel;Estabelecendo+bases...;Sempre+aprendendo+🚀" />
 </p>
 
 ---
@@ -39,14 +39,7 @@ const aprendendo = true;
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MarqkDi&theme=midnight-purple&show_icons=true&hide_border=false"/>
-  <img height="150" src="https://streak-stats.demolab.com?user=MarqkDi&theme=midnight-purple&hide_border=false"/>
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarqkDi&theme=midnight-purple&layout=compact&hide_border=false"/>
-</p>
+ ![](https://github-readme-stats.shion.dev/api?username=MarqkDi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://streak-stats.demolab.com/?user=MarqkDi&theme=midnight-purple&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MarqkDi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 

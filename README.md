@@ -1,18 +1,65 @@
-# 💫 About Me:
-🌱 Estabelecendo bases<br>const aprendendo = True;
+<!-- ANIMAÇÃO -->
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariel_marquesdte) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ariel-duarte-7197563b3) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MarqkDi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MarqkDi&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MarqkDi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=28&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Marcus;Estabelecendo+bases...;Sempre+aprendendo+🚀" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=MarqkDi&icon=2&color=15)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me:
+
+🌱 Estabelecendo bases
+
+```js
+const aprendendo = true;
+```
+
+---
+
+## 🌐 Socials:
+
+<p align="center">
+  <a href="https://instagram.com/ariel_marquesdte">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ariel-duarte-7197563b3">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,git,linux"/>
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MarqkDi&theme=midnight-purple&show_icons=true&hide_border=false"/>
+  <img height="150" src="https://streak-stats.demolab.com?user=MarqkDi&theme=midnight-purple&hide_border=false"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarqkDi&theme=midnight-purple&layout=compact&hide_border=false"/>
+</p>
+
+---
+
+## 🐍 Contribuições (snake animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 👀 Contador de visitas
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarqkDi&icon=2&color=BB86FC"/>
+</p>

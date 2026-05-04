@@ -32,7 +32,7 @@ const aprendendo = true;
 ## 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,git,linux"/>
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,git,javascript"/>
 </p>
 
 ---
@@ -43,10 +43,10 @@ const aprendendo = true;
 
 ---
 
-## 🐍 Contribuições (snake animation)
+## 📈 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarqkDi&theme=tokyo-night" />
 </p>
 
 ---

@@ -46,7 +46,7 @@ const aprendendo = true;
 ## 📈 Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarqkDi&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarqkDi&bg_color=0d1117&color=c084fc&line=a855f7&point=e9d5ff&area=true&area_color=6d28d9"/>
 </p>
 
 ---

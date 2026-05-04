@@ -10,8 +10,8 @@
 
 🌱 Estabelecendo bases
 
-```js
-const aprendendo = true;
+```java
+public static final boolean APRENDENDO = true;
 ```
 
 ---

@@ -1,7 +1,7 @@
 <!-- ANIMAÇÃO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=28&center=true&vCenter=true&width=600&lines=Hello,+i'm+Ariel;Establishing+bases...;Always+learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=28&center=true&vCenter=true&width=600&lines=Hello,+i+am+Ariel;Establishing+bases...;Always+learning+🚀" />
 </p>
 
 ---

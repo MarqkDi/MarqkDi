@@ -11,7 +11,7 @@
 🌱 Estabelecendo bases
 
 ```java
-public static final boolean APRENDENDO = true;
+public static final boolean LEARNING = true;
 ```
 
 ---

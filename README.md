@@ -41,11 +41,11 @@
 ---
 
 ## ♠ Contribuitions:
-<picture>
+[<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarqkDi/MarqkDi/output/dist/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarqkDi/MarqkDi/output/dist/github-contribution-grid-snake.svg" />
   <img alt="snake gif" src="https://raw.githubusercontent.com/MarqkDi/MarqkDi/output/dist/github-contribution-grid-snake.svg" />
-</picture>
+</picture>](https://github.com/MarqkDi/MarqkDi/blob/output/github-contribution-grid-snake.gif)
 
 ---
 

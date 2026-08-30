@@ -40,7 +40,17 @@
 
 ---
 
-
+## ♠ Contribuitions:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarqkDi/MarqkDi/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarqkDi/MarqkDi/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="snake gif" src="https://raw.githubusercontent.com/MarqkDi/MarqkDi/output/dist/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
+## ♠ Contador de visitas
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarqkDi&icon=2&color=BB86FC"/>
+</p>

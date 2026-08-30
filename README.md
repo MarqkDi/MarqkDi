@@ -1,22 +1,15 @@
 <!-- ANIMAÇÃO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=28&center=true&vCenter=true&width=600&lines=Hello,+i+am+Ariel;Establishing+bases...;Always+learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=28&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+Developer" />
 </p>
 
 ---
 
-# 💫 About Me:
+## ♠ About Me:
 
-🌱 Estabelecendo bases
 
-```java
-public static final boolean LEARNING = true;
-```
-
----
-
-## 🌐 Socials:
+## ♠ Socials:
 
 <p align="center">
   <a href="https://instagram.com/ariel_marquesdte">
@@ -29,30 +22,25 @@ public static final boolean LEARNING = true;
 
 ---
 
-## 💻 Tech Stack:
+## ♠ Tech Stack:
 
+### ♤ Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,git,javascript"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript&theme=dark"/>
 </p>
+
+### ♤ Tools & Ambient
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,figma,idea,linux,vscode&theme=dark"/>
+</p>
+
 
 ---
 
-## 📊 GitHub Stats:
-
- ![](https://github-readme-stats.shion.dev/api?username=MarqkDi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://streak-stats.demolab.com/?user=MarqkDi&theme=midnight-purple&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MarqkDi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## 📈 Contribuições
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarqkDi&bg_color=0d1117&color=c084fc&line=a855f7&point=e9d5ff&area=true&area_color=6d28d9"/>
-</p>
 
 ---
 
-## 👀 Contador de visitas
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarqkDi&icon=2&color=BB86FC"/>
-</p>

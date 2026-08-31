@@ -8,17 +8,8 @@
 
 ## ♠ About Me:
 
+---
 
-## ♠ Socials:
-
-<p align="center">
-  <a href="https://instagram.com/ariel_marquesdte">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/ariel-duarte-7197563b3">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -36,6 +27,18 @@
 
 
 ---
+
+## ♠ Socials:
+<p align="center">
+  <a href="https://instagram.com/ariel_marquesdte">
+    <img src="https://img.shields.io/badge/Instagram-%237e22ce.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ariel-duarte-7197563b3">
+    <img src="https://img.shields.io/badge/LinkedIn-%237e22ce.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  [![Email](https://img.shields.io/badge/e--mail-7aaa6e?style=for-the-badge&logo=gmail&logoColor=2d3b2a)](mailto:arielduartewrk@gmail.com)
+</p>
+
 
 
 ---

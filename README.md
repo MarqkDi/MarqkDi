@@ -36,7 +36,9 @@
   <a href="https://linkedin.com/in/ariel-duarte-7197563b3">
     <img src="https://img.shields.io/badge/LinkedIn-%237e22ce.svg?logo=linkedin&logoColor=white"/>
   </a>
-  [![Email](https://img.shields.io/badge/e--mail-7aaa6e?style=for-the-badge&logo=gmail&logoColor=2d3b2a)](mailto:arielduartewrk@gmail.com)
+  <a href="mailto:arielduartewrk@gmail.com"
+    <img src="https://img.shields.io/badge/e--mail-7aaa6e?style=for-the-badge&logo=gmail&logoColor=2d3b2a"/>
+  </a>
 </p>
 
 

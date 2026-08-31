@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%237e22ce.svg?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:arielduartewrk@gmail.com">
-    <img src="https://img.shields.io/badge/e--mail-7aaa6e?style=for-the-badge&logo=gmail&logoColor=%237e22ce"/>
+    <img src="https://img.shields.io/badge/e--mail-%237e22ce?style=for-the-badge&logo=gmail&logoColor=2d3b2a"/>
   </a>
 </p>
 

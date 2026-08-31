@@ -4,12 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=28&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+Developer" />
 </p>
 
----
-
 ## ♠ About Me:
-
----
-
 
 ---
 
@@ -25,7 +20,6 @@
   <img src="https://skillicons.dev/icons?i=git,figma,idea,linux,vscode&theme=dark"/>
 </p>
 
-
 ---
 
 ## ♠ Socials:
@@ -37,11 +31,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-%237e22ce.svg?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:arielduartewrk@gmail.com">
-    <img src="https://img.shields.io/badge/e--mail-%237e22ce?style=for-the-badge&logo=gmail&logoColor=2d3b2a"/>
+    <img src="https://img.shields.io/badge/e--mail-%237e22ce?style=flat&logo=gmail&logoColor=2d3b2a"/>
+  </a>
+  <a href="[https://instagram.com/ariel_marquesdte](https://github.com/MarqkDi)">
+    <img src="https://img.shields.io/badge/GitHub-%237e22ce.svg?logo=github&logoColor=white"/>
   </a>
 </p>
-
-
 
 ---
 
